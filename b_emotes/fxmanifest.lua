@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 authors { 'Maurice' }
-description 'RPEmotes V1.3.0'
-version '1.3.0'
+description 'Emotes'
+version '3.1.0'
 lua54 'yes'
 
 dependencies {
